@@ -1,0 +1,132 @@
+Start testing: Jan 27 23:01 MSK
+----------------------------------------------------------
+1/1 Testing: matrices_test
+1/1 Test: matrices_test
+Command: "/bin/bash" "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/test/smoke_test.sh" "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/test
+"matrices_test" start time: Jan 27 23:01 MSK
+Output:
+----------------------------------------------------------
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices 5.txt
+1 1
+5 
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices 5.txt --add 2.txt
+1 1
+7 
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices 5.txt --mult 2.txt
+1 1
+10 
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices q_7x7.txt --mult r_7x16.txt
+7 16
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 
+32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 
+48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 
+64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 
+80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 
+96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices rr_16x7.txt --mult qq_7x7.txt
+16 7
+0 16 32 48 64 80 96 
+1 17 33 49 65 81 97 
+2 18 34 50 66 82 98 
+3 19 35 51 67 83 99 
+4 20 36 52 68 84 100 
+5 21 37 53 69 85 101 
+6 22 38 54 70 86 102 
+7 23 39 55 71 87 103 
+8 24 40 56 72 88 104 
+9 25 41 57 73 89 105 
+10 26 42 58 74 90 106 
+11 27 43 59 75 91 107 
+12 28 44 60 76 92 108 
+13 29 45 61 77 93 109 
+14 30 46 62 78 94 110 
+15 31 47 63 79 95 111 
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices 0-167_8x21.txt --add 0-334_8x21.txt
+8 21
+-167 -166 -165 -164 -163 -162 -161 -160 -159 -158 -157 -156 -155 -154 -152 -152 -151 -150 -149 -148 -147 
+-146 -145 -144 -143 -142 -141 -140 -139 -138 -137 -136 -135 -134 -133 -132 -131 -130 -129 -128 -127 -126 
+-125 -124 -123 -122 -121 -120 -119 -118 -117 -116 -115 -114 -113 -112 -111 -110 -109 -108 -107 -106 -105 
+-104 -103 -102 -101 -100 -99 -98 -97 -96 -95 -94 -93 -92 -91 -90 -89 -88 -87 -86 -85 -84 
+-83 -82 -81 -80 -79 -78 -77 -76 -75 -74 -73 -72 -71 -70 -69 -68 -67 -66 -65 -64 -63 
+-62 -61 -60 -59 -58 -57 -56 -55 -54 -53 -52 -51 -50 -49 -48 -47 -46 -45 -44 -43 -42 
+-41 -40 -39 -38 -37 -36 -35 -34 -33 -32 -31 -30 -29 -28 -27 -26 -25 -24 -23 -22 -21 
+-20 -19 -18 -17 -16 -15 -14 -13 -12 -11 -10 -9 -8 -7 -6 -5 -4 -3 -2 -1 0 
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices 0-167_21x8.txt --add 0-334_21x8.txt
+21 8
+-167 -146 -125 -104 -83 -62 -41 -20 
+-166 -145 -124 -103 -82 -61 -40 -19 
+-165 -144 -123 -102 -81 -60 -39 -18 
+-164 -143 -122 -101 -80 -59 -38 -17 
+-163 -142 -121 -100 -79 -58 -37 -16 
+-162 -141 -120 -99 -78 -57 -36 -15 
+-161 -140 -119 -98 -77 -56 -35 -14 
+-160 -139 -118 -97 -76 -55 -34 -13 
+-159 -138 -117 -96 -75 -54 -33 -12 
+-158 -137 -116 -95 -74 -53 -32 -11 
+-157 -136 -115 -94 -73 -52 -31 -10 
+-156 -135 -114 -93 -72 -51 -30 -9 
+-155 -134 -113 -92 -71 -50 -29 -8 
+-154 -133 -112 -91 -70 -49 -28 -7 
+-153 -132 -111 -90 -69 -48 -27 -6 
+-152 -131 -110 -89 -68 -47 -26 -5 
+-151 -130 -109 -88 -67 -46 -25 -4 
+-150 -129 -108 -87 -66 -45 -24 -3 
+-149 -128 -107 -86 -65 -44 -23 -2 
+-148 -127 -106 -85 -64 -43 -22 -1 
+-147 -126 -105 -84 -63 -42 -21 0 
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices 5.txt --mult 2.txt --add 4.txt
+1 1
+14 
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices 1.txt --mult 2.txt --add 0.txt --mult 3.txt
+1 1
+6 
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices A_3x7.txt --mult B_7x13.txt --add minus_A_mult_B.txt
+3 13
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices 5
+1 1
+5 
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices 
+invalid amount of arguments
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices 5.txt --a 2.txt
+not --add or --mult
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices 5.txt --xxx 2.txt
+not --add or --mult
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices 5.txt --add 1.txt --a 2.txt
+not --add or --mult
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices 5.txt --aaa 2.txt
+not --add or --mult
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices 5.txt --mmmm 2.txt
+not --add or --mult
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices 0.txt --add
+invalid amount of arguments
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices 0.txt 1.txt --add
+invalid path
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices 0.txt --xxx
+invalid amount of arguments
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices A_3x7.txt --add B_7x13.txt
+n1 != n2 || m1 != m2
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices A_3x7.txt --mult B_7x13.txt --add B_7x13.txt
+n1 != n2 || m1 != m2
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices B_7x13.txt --mult A_3x7.txt
+n2 != m1
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices A_3x7.txt --mult B_7x13.txt --mult A_3x7.txt
+n2 != m1
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices B_7x13.txt --mult 7.txt
+n2 != m1
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/matrices 2.txt --add xxx.txt
+invalid path
+Smoke test passed!
+<end of output>
+Test time =   0.16 sec
+----------------------------------------------------------
+Test Passed.
+"matrices_test" end time: Jan 27 23:01 MSK
+"matrices_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 27 23:01 MSK

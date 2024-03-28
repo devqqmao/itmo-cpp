@@ -1,0 +1,235 @@
+Start testing: Oct 26 23:38 +07
+----------------------------------------------------------
+1/4 Testing: blur_test_5
+1/4 Test: blur_test_5
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/smoke_test.sh" "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur" "5%"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/test
+"blur_test_5" start time: Oct 26 23:38 +07
+Output:
+----------------------------------------------------------
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r 1
+***** Comparing: compare -fuzz 5% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_1.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r 5
+***** Comparing: compare -fuzz 5% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_5.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r 15
+***** Comparing: compare -fuzz 5% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_15.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r 45
+***** Comparing: compare -fuzz 5% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_45.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r 151
+***** Comparing: compare -fuzz 5% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_151.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -o helena_500x500_out.bmp -r 5 -i helena_500x500.bmp
+***** Comparing: compare -fuzz 5% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_5.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -r 5 -o helena_500x500_out.bmp -i helena_500x500.bmp
+***** Comparing: compare -fuzz 5% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_5.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -r 5 -i helena_500x500.bmp -o helena_500x500_out.bmp
+***** Comparing: compare -fuzz 5% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_5.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur 
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -a helena_500x500.bmp -o helena_500x500_out.bmp -r 4
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -a helena_500x500.bmp -o helena_500x500_out.bmp -r -1
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -a helena_500x500.bmp -o helena_500x500_out.bmp -r 0
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -a helena_500x500.bmp -o helena_500x500_out.bmp -r 5
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -a helena_500x500_out.bmp -r 5
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -a 5
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -r 5
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o -r 5
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -o helena_500x500_out.bmp -r 5
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i -o helena_500x500_out.bmp -r 5
+Wrong number of arguments!
+Smoke test passed!
+<end of output>
+Test time =   3.73 sec
+----------------------------------------------------------
+Test Passed.
+"blur_test_5" end time: Oct 26 23:38 +07
+"blur_test_5" time elapsed: 00:00:03
+----------------------------------------------------------
+
+2/4 Testing: blur_test_15
+2/4 Test: blur_test_15
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/smoke_test.sh" "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur" "15%"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/test
+"blur_test_15" start time: Oct 26 23:38 +07
+Output:
+----------------------------------------------------------
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r 1
+***** Comparing: compare -fuzz 15% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_1.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r 5
+***** Comparing: compare -fuzz 15% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_5.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r 15
+***** Comparing: compare -fuzz 15% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_15.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r 45
+***** Comparing: compare -fuzz 15% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_45.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r 151
+***** Comparing: compare -fuzz 15% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_151.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -o helena_500x500_out.bmp -r 5 -i helena_500x500.bmp
+***** Comparing: compare -fuzz 15% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_5.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -r 5 -o helena_500x500_out.bmp -i helena_500x500.bmp
+***** Comparing: compare -fuzz 15% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_5.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -r 5 -i helena_500x500.bmp -o helena_500x500_out.bmp
+***** Comparing: compare -fuzz 15% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_5.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur 
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -a helena_500x500.bmp -o helena_500x500_out.bmp -r 4
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -a helena_500x500.bmp -o helena_500x500_out.bmp -r -1
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -a helena_500x500.bmp -o helena_500x500_out.bmp -r 0
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -a helena_500x500.bmp -o helena_500x500_out.bmp -r 5
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -a helena_500x500_out.bmp -r 5
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -a 5
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -r 5
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o -r 5
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -o helena_500x500_out.bmp -r 5
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i -o helena_500x500_out.bmp -r 5
+Wrong number of arguments!
+Smoke test passed!
+<end of output>
+Test time =   3.70 sec
+----------------------------------------------------------
+Test Passed.
+"blur_test_15" end time: Oct 26 23:39 +07
+"blur_test_15" time elapsed: 00:00:03
+----------------------------------------------------------
+
+3/4 Testing: blur_test_30
+3/4 Test: blur_test_30
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/smoke_test.sh" "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur" "30%"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/test
+"blur_test_30" start time: Oct 26 23:39 +07
+Output:
+----------------------------------------------------------
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r 1
+***** Comparing: compare -fuzz 30% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_1.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r 5
+***** Comparing: compare -fuzz 30% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_5.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r 15
+***** Comparing: compare -fuzz 30% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_15.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r 45
+***** Comparing: compare -fuzz 30% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_45.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r 151
+***** Comparing: compare -fuzz 30% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_151.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -o helena_500x500_out.bmp -r 5 -i helena_500x500.bmp
+***** Comparing: compare -fuzz 30% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_5.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -r 5 -o helena_500x500_out.bmp -i helena_500x500.bmp
+***** Comparing: compare -fuzz 30% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_5.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -r 5 -i helena_500x500.bmp -o helena_500x500_out.bmp
+***** Comparing: compare -fuzz 30% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_5.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur 
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -a helena_500x500.bmp -o helena_500x500_out.bmp -r 4
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -a helena_500x500.bmp -o helena_500x500_out.bmp -r -1
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -a helena_500x500.bmp -o helena_500x500_out.bmp -r 0
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -a helena_500x500.bmp -o helena_500x500_out.bmp -r 5
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -a helena_500x500_out.bmp -r 5
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -a 5
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -r 5
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o -r 5
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -o helena_500x500_out.bmp -r 5
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i -o helena_500x500_out.bmp -r 5
+Wrong number of arguments!
+Smoke test passed!
+<end of output>
+Test time =   3.70 sec
+----------------------------------------------------------
+Test Passed.
+"blur_test_30" end time: Oct 26 23:39 +07
+"blur_test_30" time elapsed: 00:00:03
+----------------------------------------------------------
+
+4/4 Testing: blur_test_75
+4/4 Test: blur_test_75
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/smoke_test.sh" "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur" "75%"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/test
+"blur_test_75" start time: Oct 26 23:39 +07
+Output:
+----------------------------------------------------------
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r 1
+***** Comparing: compare -fuzz 75% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_1.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r 5
+***** Comparing: compare -fuzz 75% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_5.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r 15
+***** Comparing: compare -fuzz 75% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_15.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r 45
+***** Comparing: compare -fuzz 75% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_45.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r 151
+***** Comparing: compare -fuzz 75% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_151.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -o helena_500x500_out.bmp -r 5 -i helena_500x500.bmp
+***** Comparing: compare -fuzz 75% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_5.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -r 5 -o helena_500x500_out.bmp -i helena_500x500.bmp
+***** Comparing: compare -fuzz 75% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_5.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -r 5 -i helena_500x500.bmp -o helena_500x500_out.bmp
+***** Comparing: compare -fuzz 75% -metric AE /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/test/helena_500x500_filtered_5.bmp helena_500x500_out.bmp helena_500x500_out.bmp.diff.png
+0***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur 
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -a helena_500x500.bmp -o helena_500x500_out.bmp -r 4
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -a helena_500x500.bmp -o helena_500x500_out.bmp -r -1
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -a helena_500x500.bmp -o helena_500x500_out.bmp -r 0
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -a helena_500x500.bmp -o helena_500x500_out.bmp -r 5
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -a helena_500x500_out.bmp -r 5
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -a 5
+Unexpected argument!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o helena_500x500_out.bmp -r
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -r 5
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i helena_500x500.bmp -o -r 5
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -o helena_500x500_out.bmp -r 5
+Wrong number of arguments!
+***** Running: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/blur -i -o helena_500x500_out.bmp -r 5
+Wrong number of arguments!
+Smoke test passed!
+<end of output>
+Test time =   3.70 sec
+----------------------------------------------------------
+Test Passed.
+"blur_test_75" end time: Oct 26 23:39 +07
+"blur_test_75" time elapsed: 00:00:03
+----------------------------------------------------------
+
+End testing: Oct 26 23:39 +07

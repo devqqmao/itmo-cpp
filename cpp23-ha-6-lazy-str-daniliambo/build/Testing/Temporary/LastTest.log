@@ -1,0 +1,163 @@
+Start testing: Jan 28 18:35 MSK
+----------------------------------------------------------
+1/8 Testing: template_arguments_compiles
+1/8 Test: template_arguments_compiles
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/test/lazy_str_tests" "template_arguments_compiles"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/test
+"template_arguments_compiles" start time: Jan 28 18:35 MSK
+Output:
+----------------------------------------------------------
+Filters: template_arguments_compiles
+Randomness seeded to: 1876504385
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"template_arguments_compiles" end time: Jan 28 18:35 MSK
+"template_arguments_compiles" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/8 Testing: constructors_compiles
+2/8 Test: constructors_compiles
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/test/lazy_str_tests" "constructors_compiles"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/test
+"constructors_compiles" start time: Jan 28 18:35 MSK
+Output:
+----------------------------------------------------------
+Filters: constructors_compiles
+Randomness seeded to: 1861930237
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"constructors_compiles" end time: Jan 28 18:35 MSK
+"constructors_compiles" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/8 Testing: read_only_operations
+3/8 Test: read_only_operations
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/test/lazy_str_tests" "read_only_operations"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/test
+"read_only_operations" start time: Jan 28 18:35 MSK
+Output:
+----------------------------------------------------------
+Filters: read_only_operations
+Randomness seeded to: 33865184
+===============================================================================
+All tests passed (15 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"read_only_operations" end time: Jan 28 18:35 MSK
+"read_only_operations" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/8 Testing: modification_operations
+4/8 Test: modification_operations
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/test/lazy_str_tests" "modification_operations"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/test
+"modification_operations" start time: Jan 28 18:35 MSK
+Output:
+----------------------------------------------------------
+Filters: modification_operations
+Randomness seeded to: 3683161084
+===============================================================================
+All tests passed (24 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"modification_operations" end time: Jan 28 18:35 MSK
+"modification_operations" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/8 Testing: wide_constructors_compiles
+5/8 Test: wide_constructors_compiles
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/test/lazy_str_tests" "wide_constructors_compiles"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/test
+"wide_constructors_compiles" start time: Jan 28 18:35 MSK
+Output:
+----------------------------------------------------------
+Filters: wide_constructors_compiles
+Randomness seeded to: 1910414544
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"wide_constructors_compiles" end time: Jan 28 18:35 MSK
+"wide_constructors_compiles" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/8 Testing: wide_read_only_operations
+6/8 Test: wide_read_only_operations
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/test/lazy_str_tests" "wide_read_only_operations"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/test
+"wide_read_only_operations" start time: Jan 28 18:35 MSK
+Output:
+----------------------------------------------------------
+Filters: wide_read_only_operations
+Randomness seeded to: 73318769
+===============================================================================
+All tests passed (15 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"wide_read_only_operations" end time: Jan 28 18:35 MSK
+"wide_read_only_operations" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/8 Testing: wide_modification_operations
+7/8 Test: wide_modification_operations
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/test/lazy_str_tests" "wide_modification_operations"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/test
+"wide_modification_operations" start time: Jan 28 18:35 MSK
+Output:
+----------------------------------------------------------
+Filters: wide_modification_operations
+Randomness seeded to: 1108714525
+===============================================================================
+All tests passed (24 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"wide_modification_operations" end time: Jan 28 18:35 MSK
+"wide_modification_operations" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/8 Testing: istring_tests
+8/8 Test: istring_tests
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/test/lazy_str_tests" "istring_tests"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/test
+"istring_tests" start time: Jan 28 18:35 MSK
+Output:
+----------------------------------------------------------
+Filters: istring_tests
+Randomness seeded to: 3126264898
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"istring_tests" end time: Jan 28 18:35 MSK
+"istring_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 28 18:35 MSK

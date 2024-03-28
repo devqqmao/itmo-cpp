@@ -1,0 +1,5 @@
+if(EXISTS "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-0-tutorial-daniliambo/build/test/tutorial_tests_tests-b12d07c.cmake")
+  include("/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-0-tutorial-daniliambo/build/test/tutorial_tests_tests-b12d07c.cmake")
+else()
+  add_test(tutorial_tests_NOT_BUILT-b12d07c tutorial_tests_NOT_BUILT-b12d07c)
+endif()

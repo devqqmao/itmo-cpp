@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "optional": "cpp",
+        "functional": "cpp",
+        "__bit_reference": "cpp",
+        "__debug": "cpp",
+        "__hash_table": "cpp",
+        "__node_handle": "cpp",
+        "__split_buffer": "cpp",
+        "__threading_support": "cpp",
+        "array": "cpp",
+        "atomic": "cpp",
+        "exception": "cpp",
+        "initializer_list": "cpp",
+        "iosfwd": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "string": "cpp",
+        "tuple": "cpp",
+        "typeinfo": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp"
+    }
+}

@@ -1,0 +1,223 @@
+Start testing: Jan 30 16:53 MSK
+----------------------------------------------------------
+1/11 Testing: return_types
+1/11 Test: return_types
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test/bind_tests" "return_types"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test
+"return_types" start time: Jan 30 16:53 MSK
+Output:
+----------------------------------------------------------
+Filters: return_types
+Randomness seeded to: 2732728252
+===============================================================================
+All tests passed (11 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"return_types" end time: Jan 30 16:53 MSK
+"return_types" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/11 Testing: placeholders
+2/11 Test: placeholders
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test/bind_tests" "placeholders"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test
+"placeholders" start time: Jan 30 16:53 MSK
+Output:
+----------------------------------------------------------
+Filters: placeholders
+Randomness seeded to: 2621419136
+===============================================================================
+All tests passed (15 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"placeholders" end time: Jan 30 16:53 MSK
+"placeholders" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/11 Testing: pass_reference
+3/11 Test: pass_reference
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test/bind_tests" "pass_reference"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test
+"pass_reference" start time: Jan 30 16:53 MSK
+Output:
+----------------------------------------------------------
+Filters: pass_reference
+Randomness seeded to: 2094058681
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"pass_reference" end time: Jan 30 16:53 MSK
+"pass_reference" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/11 Testing: pass_rvalue_reference
+4/11 Test: pass_rvalue_reference
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test/bind_tests" "pass_rvalue_reference"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test
+"pass_rvalue_reference" start time: Jan 30 16:53 MSK
+Output:
+----------------------------------------------------------
+Filters: pass_rvalue_reference
+Randomness seeded to: 485206066
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"pass_rvalue_reference" end time: Jan 30 16:53 MSK
+"pass_rvalue_reference" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/11 Testing: return_types_2
+5/11 Test: return_types_2
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test/bind_tests" "return_types_2"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test
+"return_types_2" start time: Jan 30 16:53 MSK
+Output:
+----------------------------------------------------------
+Filters: return_types_2
+Randomness seeded to: 3004146416
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"return_types_2" end time: Jan 30 16:53 MSK
+"return_types_2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/11 Testing: pass_object_without_copy_constructor
+6/11 Test: pass_object_without_copy_constructor
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test/bind_tests" "pass_object_without_copy_constructor"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test
+"pass_object_without_copy_constructor" start time: Jan 30 16:53 MSK
+Output:
+----------------------------------------------------------
+Filters: pass_object_without_copy_constructor
+Randomness seeded to: 850039077
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"pass_object_without_copy_constructor" end time: Jan 30 16:53 MSK
+"pass_object_without_copy_constructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/11 Testing: pass_primitive_types
+7/11 Test: pass_primitive_types
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test/bind_tests" "pass_primitive_types"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test
+"pass_primitive_types" start time: Jan 30 16:53 MSK
+Output:
+----------------------------------------------------------
+Filters: pass_primitive_types
+Randomness seeded to: 851768018
+===============================================================================
+All tests passed (9 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"pass_primitive_types" end time: Jan 30 16:53 MSK
+"pass_primitive_types" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/11 Testing: copy_constructor
+8/11 Test: copy_constructor
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test/bind_tests" "copy_constructor"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test
+"copy_constructor" start time: Jan 30 16:53 MSK
+Output:
+----------------------------------------------------------
+Filters: copy_constructor
+Randomness seeded to: 1222688276
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"copy_constructor" end time: Jan 30 16:53 MSK
+"copy_constructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/11 Testing: std_bind_cannot_be_copied
+9/11 Test: std_bind_cannot_be_copied
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test/bind_tests" "std_bind_cannot_be_copied"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test
+"std_bind_cannot_be_copied" start time: Jan 30 16:53 MSK
+Output:
+----------------------------------------------------------
+Filters: std_bind_cannot_be_copied
+Randomness seeded to: 2886936739
+===============================================================================
+All tests passed (9 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"std_bind_cannot_be_copied" end time: Jan 30 16:53 MSK
+"std_bind_cannot_be_copied" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/11 Testing: move
+10/11 Test: move
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test/bind_tests" "move"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test
+"move" start time: Jan 30 16:53 MSK
+Output:
+----------------------------------------------------------
+Filters: move
+Randomness seeded to: 401087731
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"move" end time: Jan 30 16:53 MSK
+"move" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/11 Testing: boost_tests
+11/11 Test: boost_tests
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test/bind_tests" "boost_tests"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-7-bind-daniliambo/build/test
+"boost_tests" start time: Jan 30 16:53 MSK
+Output:
+----------------------------------------------------------
+Filters: boost_tests
+Randomness seeded to: 2661129387
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"boost_tests" end time: Jan 30 16:53 MSK
+"boost_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 30 16:53 MSK

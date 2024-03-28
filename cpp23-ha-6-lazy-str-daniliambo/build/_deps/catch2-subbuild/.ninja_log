@@ -1,0 +1,21 @@
+# ninja log v5
+1	14	1706454012300791938	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	f838e5772b8ad01
+1	14	1706454012300791938	/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir	f838e5772b8ad01
+14	3629	1706454015915677080	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	737af2147916ba87
+14	3629	1706454015915677080	/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download	737af2147916ba87
+3629	3663	0	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	aee586f30be8ed46
+3629	3663	0	/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update	aee586f30be8ed46
+3663	3675	1706454015961579734	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	978b4d15a893b8f5
+3663	3675	1706454015961579734	/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch	978b4d15a893b8f5
+3675	3687	1706454015974227982	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	953fd1870b5b86ab
+3675	3687	1706454015974227982	/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure	953fd1870b5b86ab
+3687	3699	1706454015986452142	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	b2869742f342a90e
+3687	3699	1706454015986452142	/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build	b2869742f342a90e
+3700	3712	1706454015999167474	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	a41dbfe72b76a587
+3700	3712	1706454015999167474	/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install	a41dbfe72b76a587
+3712	3724	1706454016011412801	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	743832a8655aa6d6
+3712	3724	1706454016011412801	/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test	743832a8655aa6d6
+3724	3746	1706454016033264305	CMakeFiles/catch2-populate-complete	145016f92a28d744
+3724	3746	1706454016033264305	catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	145016f92a28d744
+3724	3746	1706454016033264305	/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate-complete	145016f92a28d744
+3724	3746	1706454016033264305	/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-6-lazy-str-daniliambo/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done	145016f92a28d744

@@ -1,0 +1,7 @@
+/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/CMakeFiles/test.dir
+/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/CMakeFiles/edit_cache.dir
+/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/CMakeFiles/rebuild_cache.dir
+/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/CMakeFiles/blur.dir
+/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/CMakeFiles/test.dir
+/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/CMakeFiles/edit_cache.dir
+/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-4-blur-daniliambo/build/src/CMakeFiles/rebuild_cache.dir

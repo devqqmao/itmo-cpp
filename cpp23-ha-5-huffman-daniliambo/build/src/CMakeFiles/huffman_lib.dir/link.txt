@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libhuffman_lib.a CMakeFiles/huffman_lib.dir/huffman/huffman.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libhuffman_lib.a

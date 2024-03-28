@@ -1,0 +1,12 @@
+return_types 1 0.0050325
+placeholders 1 0.004557
+pass_reference 1 0.00449667
+pass_rvalue_reference 1 0.00452758
+return_types_2 1 0.00467583
+pass_object_without_copy_constructor 1 0.00437508
+pass_primitive_types 1 0.00473046
+copy_constructor 1 0.004543
+std_bind_cannot_be_copied 1 0.0047205
+move 1 0.004583
+boost_tests 1 0.00465408
+---

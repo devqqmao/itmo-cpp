@@ -1,0 +1,9 @@
+template_arguments_compiles 11 0.00056236
+constructors_compiles 11 0.000402027
+read_only_operations 11 0.000411458
+modification_operations 11 0.000420341
+wide_constructors_compiles 11 0.000434398
+wide_read_only_operations 11 0.000395405
+wide_modification_operations 11 0.000391534
+istring_tests 11 0.000372674
+---

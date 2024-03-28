@@ -1,0 +1,9 @@
+# ninja log v5
+6	608	1698580159886794628	src/CMakeFiles/matrices.dir/matrices/main.cpp.o	7741a797a94e3933
+608	662	1698580159943263965	src/matrices	c5ad3fea7a80312a
+2	593	1704383788686045667	src/CMakeFiles/matrices.dir/matrices/main.cpp.o	5db4d48adce4e5e9
+595	635	1704383788730055449	src/matrices	96c1c7fdde7ffd76
+5	554	1704383834116544293	src/CMakeFiles/matrices.dir/matrices/main.cpp.o	5db4d48adce4e5e9
+554	598	1704383834163262116	src/matrices	96c1c7fdde7ffd76
+4	490	1706385704237405645	src/CMakeFiles/matrices.dir/matrices/main.cpp.o	5db4d48adce4e5e9
+491	534	1706385704282620516	src/matrices	96c1c7fdde7ffd76

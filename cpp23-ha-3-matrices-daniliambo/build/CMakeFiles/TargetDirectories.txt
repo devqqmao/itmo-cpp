@@ -1,0 +1,7 @@
+/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/CMakeFiles/test.dir
+/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/CMakeFiles/edit_cache.dir
+/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/CMakeFiles/rebuild_cache.dir
+/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/CMakeFiles/matrices.dir
+/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/CMakeFiles/test.dir
+/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/CMakeFiles/edit_cache.dir
+/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-3-matrices-daniliambo/build/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+Empty file 1 0.00495037
+One byte file 1 0.00461504
+Zero code file 1 0.00478804
+255 code file 1 0.00558821
+all 256 codes file 1 0.00992017
+Only 2 same bytes 1 0.00510725
+Big file txt 1 9.75344
+Binary big file 1 20.2688
+Big file with random text 1 30.766
+Example file 1 0.005559
+---

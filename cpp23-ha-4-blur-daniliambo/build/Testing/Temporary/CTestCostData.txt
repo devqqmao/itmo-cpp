@@ -1,0 +1,5 @@
+blur_test_5 1 3.72742
+blur_test_15 1 3.69614
+blur_test_30 1 3.69656
+blur_test_75 1 3.69931
+---

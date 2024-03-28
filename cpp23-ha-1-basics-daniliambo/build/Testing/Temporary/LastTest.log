@@ -1,0 +1,1503 @@
+Start testing: Sep 26 22:48 MSK
+----------------------------------------------------------
+1/75 Testing: count_primes_0
+1/75 Test: count_primes_0
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "count_primes_0"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"count_primes_0" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: count_primes_0
+Randomness seeded to: 2073015380
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"count_primes_0" end time: Sep 26 22:48 MSK
+"count_primes_0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/75 Testing: count_primes_1
+2/75 Test: count_primes_1
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "count_primes_1"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"count_primes_1" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: count_primes_1
+Randomness seeded to: 3496972180
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"count_primes_1" end time: Sep 26 22:48 MSK
+"count_primes_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/75 Testing: count_primes_3
+3/75 Test: count_primes_3
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "count_primes_3"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"count_primes_3" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: count_primes_3
+Randomness seeded to: 1870576958
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"count_primes_3" end time: Sep 26 22:48 MSK
+"count_primes_3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/75 Testing: count_primes_4
+4/75 Test: count_primes_4
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "count_primes_4"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"count_primes_4" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: count_primes_4
+Randomness seeded to: 3574516680
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"count_primes_4" end time: Sep 26 22:48 MSK
+"count_primes_4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/75 Testing: count_primes_7
+5/75 Test: count_primes_7
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "count_primes_7"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"count_primes_7" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: count_primes_7
+Randomness seeded to: 170294891
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"count_primes_7" end time: Sep 26 22:48 MSK
+"count_primes_7" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/75 Testing: count_primes_12
+6/75 Test: count_primes_12
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "count_primes_12"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"count_primes_12" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: count_primes_12
+Randomness seeded to: 1981377899
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"count_primes_12" end time: Sep 26 22:48 MSK
+"count_primes_12" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/75 Testing: count_primes_123
+7/75 Test: count_primes_123
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "count_primes_123"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"count_primes_123" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: count_primes_123
+Randomness seeded to: 795183534
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"count_primes_123" end time: Sep 26 22:48 MSK
+"count_primes_123" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/75 Testing: count_primes_1234
+8/75 Test: count_primes_1234
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "count_primes_1234"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"count_primes_1234" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: count_primes_1234
+Randomness seeded to: 2995695290
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"count_primes_1234" end time: Sep 26 22:48 MSK
+"count_primes_1234" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/75 Testing: count_primes_4321
+9/75 Test: count_primes_4321
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "count_primes_4321"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"count_primes_4321" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: count_primes_4321
+Randomness seeded to: 1424666309
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"count_primes_4321" end time: Sep 26 22:48 MSK
+"count_primes_4321" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/75 Testing: count_primes_54321
+10/75 Test: count_primes_54321
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "count_primes_54321"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"count_primes_54321" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: count_primes_54321
+Randomness seeded to: 2441157578
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"count_primes_54321" end time: Sep 26 22:48 MSK
+"count_primes_54321" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/75 Testing: divide_0_any
+11/75 Test: divide_0_any
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_0_any"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_0_any" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_0_any
+Randomness seeded to: 3976742748
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_0_any" end time: Sep 26 22:48 MSK
+"divide_0_any" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/75 Testing: divide_0_any_negative
+12/75 Test: divide_0_any_negative
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_0_any_negative"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_0_any_negative" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_0_any_negative
+Randomness seeded to: 3477706613
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_0_any_negative" end time: Sep 26 22:48 MSK
+"divide_0_any_negative" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/75 Testing: divide_any_1
+13/75 Test: divide_any_1
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_any_1"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_any_1" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_any_1
+Randomness seeded to: 927226785
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_any_1" end time: Sep 26 22:48 MSK
+"divide_any_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/75 Testing: divide_any_negative_1
+14/75 Test: divide_any_negative_1
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_any_negative_1"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_any_negative_1" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_any_negative_1
+Randomness seeded to: 1102515076
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_any_negative_1" end time: Sep 26 22:48 MSK
+"divide_any_negative_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/75 Testing: divide_any_-1
+15/75 Test: divide_any_-1
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_any_-1"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_any_-1" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_any_-1
+Randomness seeded to: 140973935
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_any_-1" end time: Sep 26 22:48 MSK
+"divide_any_-1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/75 Testing: divide_any_negative_-1
+16/75 Test: divide_any_negative_-1
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_any_negative_-1"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_any_negative_-1" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_any_negative_-1
+Randomness seeded to: 686100114
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_any_negative_-1" end time: Sep 26 22:48 MSK
+"divide_any_negative_-1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/75 Testing: divide_1_1
+17/75 Test: divide_1_1
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_1_1"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_1_1" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_1_1
+Randomness seeded to: 333324994
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_1_1" end time: Sep 26 22:48 MSK
+"divide_1_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/75 Testing: divide_-1_1
+18/75 Test: divide_-1_1
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_-1_1"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_-1_1" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_-1_1
+Randomness seeded to: 4228688863
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_-1_1" end time: Sep 26 22:48 MSK
+"divide_-1_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/75 Testing: divide_1_-1
+19/75 Test: divide_1_-1
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_1_-1"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_1_-1" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_1_-1
+Randomness seeded to: 3274247938
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_1_-1" end time: Sep 26 22:48 MSK
+"divide_1_-1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/75 Testing: divide_-1_-1
+20/75 Test: divide_-1_-1
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_-1_-1"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_-1_-1" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_-1_-1
+Randomness seeded to: 3384330990
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_-1_-1" end time: Sep 26 22:48 MSK
+"divide_-1_-1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/75 Testing: divide_4_2
+21/75 Test: divide_4_2
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_4_2"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_4_2" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_4_2
+Randomness seeded to: 2369002138
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_4_2" end time: Sep 26 22:48 MSK
+"divide_4_2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/75 Testing: divide_-4_2
+22/75 Test: divide_-4_2
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_-4_2"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_-4_2" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_-4_2
+Randomness seeded to: 3470729693
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_-4_2" end time: Sep 26 22:48 MSK
+"divide_-4_2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/75 Testing: divide_4_-2
+23/75 Test: divide_4_-2
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_4_-2"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_4_-2" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_4_-2
+Randomness seeded to: 2482627831
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_4_-2" end time: Sep 26 22:48 MSK
+"divide_4_-2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/75 Testing: divide_-4_-2
+24/75 Test: divide_-4_-2
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_-4_-2"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_-4_-2" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_-4_-2
+Randomness seeded to: 989145764
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_-4_-2" end time: Sep 26 22:48 MSK
+"divide_-4_-2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/75 Testing: divide_5_2
+25/75 Test: divide_5_2
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_5_2"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_5_2" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_5_2
+Randomness seeded to: 87184807
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_5_2" end time: Sep 26 22:48 MSK
+"divide_5_2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/75 Testing: divide_-5_2
+26/75 Test: divide_-5_2
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_-5_2"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_-5_2" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_-5_2
+Randomness seeded to: 3311070892
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_-5_2" end time: Sep 26 22:48 MSK
+"divide_-5_2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/75 Testing: divide_5_-2
+27/75 Test: divide_5_-2
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_5_-2"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_5_-2" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_5_-2
+Randomness seeded to: 1594380945
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_5_-2" end time: Sep 26 22:48 MSK
+"divide_5_-2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/75 Testing: divide_-5_-2
+28/75 Test: divide_-5_-2
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_-5_-2"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_-5_-2" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_-5_-2
+Randomness seeded to: 694493533
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_-5_-2" end time: Sep 26 22:48 MSK
+"divide_-5_-2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/75 Testing: divide_2_5
+29/75 Test: divide_2_5
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_2_5"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_2_5" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_2_5
+Randomness seeded to: 1460936115
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_2_5" end time: Sep 26 22:48 MSK
+"divide_2_5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/75 Testing: divide_-2_5
+30/75 Test: divide_-2_5
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_-2_5"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_-2_5" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_-2_5
+Randomness seeded to: 580320169
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_-2_5" end time: Sep 26 22:48 MSK
+"divide_-2_5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/75 Testing: divide_2_-5
+31/75 Test: divide_2_-5
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_2_-5"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_2_-5" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_2_-5
+Randomness seeded to: 1874563382
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_2_-5" end time: Sep 26 22:48 MSK
+"divide_2_-5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/75 Testing: divide_-2_-5
+32/75 Test: divide_-2_-5
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_-2_-5"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_-2_-5" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_-2_-5
+Randomness seeded to: 699700951
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_-2_-5" end time: Sep 26 22:48 MSK
+"divide_-2_-5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/75 Testing: divide_max_1
+33/75 Test: divide_max_1
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_max_1"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_max_1" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_max_1
+Randomness seeded to: 1550457465
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_max_1" end time: Sep 26 22:48 MSK
+"divide_max_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/75 Testing: divide_0_max
+34/75 Test: divide_0_max
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_0_max"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_0_max" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_0_max
+Randomness seeded to: 3514526460
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_0_max" end time: Sep 26 22:48 MSK
+"divide_0_max" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/75 Testing: divide_min_1
+35/75 Test: divide_min_1
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_min_1"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_min_1" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_min_1
+Randomness seeded to: 2935693974
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_min_1" end time: Sep 26 22:48 MSK
+"divide_min_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/75 Testing: divide_0_min
+36/75 Test: divide_0_min
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_0_min"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_0_min" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_0_min
+Randomness seeded to: 2127447045
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_0_min" end time: Sep 26 22:48 MSK
+"divide_0_min" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/75 Testing: divide_min_-1
+37/75 Test: divide_min_-1
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_min_-1"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_min_-1" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_min_-1
+Randomness seeded to: 284480148
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_min_-1" end time: Sep 26 22:48 MSK
+"divide_min_-1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/75 Testing: divide_max_max
+38/75 Test: divide_max_max
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_max_max"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_max_max" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_max_max
+Randomness seeded to: 3914501011
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_max_max" end time: Sep 26 22:48 MSK
+"divide_max_max" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/75 Testing: divide_min_min
+39/75 Test: divide_min_min
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_min_min"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_min_min" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_min_min
+Randomness seeded to: 1225659029
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_min_min" end time: Sep 26 22:48 MSK
+"divide_min_min" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/75 Testing: divide_max_min
+40/75 Test: divide_max_min
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_max_min"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_max_min" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_max_min
+Randomness seeded to: 1549110341
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_max_min" end time: Sep 26 22:48 MSK
+"divide_max_min" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/75 Testing: divide_min_max
+41/75 Test: divide_min_max
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "divide_min_max"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"divide_min_max" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: divide_min_max
+Randomness seeded to: 1797455512
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"divide_min_max" end time: Sep 26 22:48 MSK
+"divide_min_max" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/75 Testing: roman_to_int_empty
+42/75 Test: roman_to_int_empty
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_empty"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_empty" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_empty
+Randomness seeded to: 3076610833
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_empty" end time: Sep 26 22:48 MSK
+"roman_to_int_empty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/75 Testing: roman_to_int_I
+43/75 Test: roman_to_int_I
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_I"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_I" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_I
+Randomness seeded to: 2635861131
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_I" end time: Sep 26 22:48 MSK
+"roman_to_int_I" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/75 Testing: roman_to_int_V
+44/75 Test: roman_to_int_V
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_V"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_V" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_V
+Randomness seeded to: 11933440
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_V" end time: Sep 26 22:48 MSK
+"roman_to_int_V" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/75 Testing: roman_to_int_X
+45/75 Test: roman_to_int_X
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_X"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_X" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_X
+Randomness seeded to: 1127779461
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_X" end time: Sep 26 22:48 MSK
+"roman_to_int_X" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/75 Testing: roman_to_int_L
+46/75 Test: roman_to_int_L
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_L"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_L" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_L
+Randomness seeded to: 983587173
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_L" end time: Sep 26 22:48 MSK
+"roman_to_int_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/75 Testing: roman_to_int_C
+47/75 Test: roman_to_int_C
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_C"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_C" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_C
+Randomness seeded to: 3479861629
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_C" end time: Sep 26 22:48 MSK
+"roman_to_int_C" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/75 Testing: roman_to_int_D
+48/75 Test: roman_to_int_D
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_D"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_D" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_D
+Randomness seeded to: 2199303690
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_D" end time: Sep 26 22:48 MSK
+"roman_to_int_D" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/75 Testing: roman_to_int_M
+49/75 Test: roman_to_int_M
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_M"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_M" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_M
+Randomness seeded to: 1098943966
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_M" end time: Sep 26 22:48 MSK
+"roman_to_int_M" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/75 Testing: roman_to_int_MD
+50/75 Test: roman_to_int_MD
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_MD"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_MD" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_MD
+Randomness seeded to: 3131126505
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_MD" end time: Sep 26 22:48 MSK
+"roman_to_int_MD" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/75 Testing: roman_to_int_DC
+51/75 Test: roman_to_int_DC
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_DC"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_DC" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_DC
+Randomness seeded to: 660433243
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_DC" end time: Sep 26 22:48 MSK
+"roman_to_int_DC" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/75 Testing: roman_to_int_MI
+52/75 Test: roman_to_int_MI
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_MI"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_MI" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_MI
+Randomness seeded to: 861965621
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_MI" end time: Sep 26 22:48 MSK
+"roman_to_int_MI" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/75 Testing: roman_to_int_MDCLXVI
+53/75 Test: roman_to_int_MDCLXVI
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_MDCLXVI"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_MDCLXVI" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_MDCLXVI
+Randomness seeded to: 3515128500
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_MDCLXVI" end time: Sep 26 22:48 MSK
+"roman_to_int_MDCLXVI" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/75 Testing: roman_to_int_MDCLXI
+54/75 Test: roman_to_int_MDCLXI
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_MDCLXI"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_MDCLXI" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_MDCLXI
+Randomness seeded to: 57551473
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_MDCLXI" end time: Sep 26 22:48 MSK
+"roman_to_int_MDCLXI" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/75 Testing: roman_to_int_MDCLI
+55/75 Test: roman_to_int_MDCLI
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_MDCLI"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_MDCLI" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_MDCLI
+Randomness seeded to: 2484440005
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_MDCLI" end time: Sep 26 22:48 MSK
+"roman_to_int_MDCLI" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/75 Testing: roman_to_int_XVII
+56/75 Test: roman_to_int_XVII
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_XVII"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_XVII" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_XVII
+Randomness seeded to: 3117943587
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_XVII" end time: Sep 26 22:48 MSK
+"roman_to_int_XVII" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/75 Testing: roman_to_int_MCMXCIV
+57/75 Test: roman_to_int_MCMXCIV
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_MCMXCIV"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_MCMXCIV" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_MCMXCIV
+Randomness seeded to: 452492462
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_MCMXCIV" end time: Sep 26 22:48 MSK
+"roman_to_int_MCMXCIV" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/75 Testing: roman_to_int_IX
+58/75 Test: roman_to_int_IX
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_IX"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_IX" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_IX
+Randomness seeded to: 4274999407
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_IX" end time: Sep 26 22:48 MSK
+"roman_to_int_IX" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/75 Testing: roman_to_int_CIV
+59/75 Test: roman_to_int_CIV
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_CIV"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_CIV" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_CIV
+Randomness seeded to: 3953233309
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_CIV" end time: Sep 26 22:48 MSK
+"roman_to_int_CIV" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/75 Testing: roman_to_int_XL
+60/75 Test: roman_to_int_XL
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_XL"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_XL" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_XL
+Randomness seeded to: 2260118831
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_XL" end time: Sep 26 22:48 MSK
+"roman_to_int_XL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/75 Testing: roman_to_int_XC
+61/75 Test: roman_to_int_XC
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_XC"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_XC" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_XC
+Randomness seeded to: 3165506623
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_XC" end time: Sep 26 22:48 MSK
+"roman_to_int_XC" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/75 Testing: roman_to_int_CD
+62/75 Test: roman_to_int_CD
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_CD"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_CD" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_CD
+Randomness seeded to: 1271313276
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_CD" end time: Sep 26 22:48 MSK
+"roman_to_int_CD" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/75 Testing: roman_to_int_CM
+63/75 Test: roman_to_int_CM
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "roman_to_int_CM"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"roman_to_int_CM" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: roman_to_int_CM
+Randomness seeded to: 2134919903
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"roman_to_int_CM" end time: Sep 26 22:48 MSK
+"roman_to_int_CM" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/75 Testing: sum_digits_zero
+64/75 Test: sum_digits_zero
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "sum_digits_zero"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"sum_digits_zero" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: sum_digits_zero
+Randomness seeded to: 2736411980
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"sum_digits_zero" end time: Sep 26 22:48 MSK
+"sum_digits_zero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+65/75 Testing: sum_digits_one
+65/75 Test: sum_digits_one
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "sum_digits_one"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"sum_digits_one" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: sum_digits_one
+Randomness seeded to: 22587069
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"sum_digits_one" end time: Sep 26 22:48 MSK
+"sum_digits_one" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/75 Testing: sum_digits_one_another
+66/75 Test: sum_digits_one_another
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "sum_digits_one_another"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"sum_digits_one_another" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: sum_digits_one_another
+Randomness seeded to: 329907208
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"sum_digits_one_another" end time: Sep 26 22:48 MSK
+"sum_digits_one_another" time elapsed: 00:00:00
+----------------------------------------------------------
+
+67/75 Testing: sum_digits_one_negative
+67/75 Test: sum_digits_one_negative
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "sum_digits_one_negative"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"sum_digits_one_negative" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: sum_digits_one_negative
+Randomness seeded to: 2013654556
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"sum_digits_one_negative" end time: Sep 26 22:48 MSK
+"sum_digits_one_negative" time elapsed: 00:00:00
+----------------------------------------------------------
+
+68/75 Testing: sum_digits_two
+68/75 Test: sum_digits_two
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "sum_digits_two"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"sum_digits_two" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: sum_digits_two
+Randomness seeded to: 1921418677
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"sum_digits_two" end time: Sep 26 22:48 MSK
+"sum_digits_two" time elapsed: 00:00:00
+----------------------------------------------------------
+
+69/75 Testing: sum_digits_two_another
+69/75 Test: sum_digits_two_another
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "sum_digits_two_another"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"sum_digits_two_another" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: sum_digits_two_another
+Randomness seeded to: 999902598
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"sum_digits_two_another" end time: Sep 26 22:48 MSK
+"sum_digits_two_another" time elapsed: 00:00:00
+----------------------------------------------------------
+
+70/75 Testing: sum_digits_two_negative
+70/75 Test: sum_digits_two_negative
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "sum_digits_two_negative"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"sum_digits_two_negative" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: sum_digits_two_negative
+Randomness seeded to: 3400215913
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"sum_digits_two_negative" end time: Sep 26 22:48 MSK
+"sum_digits_two_negative" time elapsed: 00:00:00
+----------------------------------------------------------
+
+71/75 Testing: sum_digits_five
+71/75 Test: sum_digits_five
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "sum_digits_five"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"sum_digits_five" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: sum_digits_five
+Randomness seeded to: 1599682136
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"sum_digits_five" end time: Sep 26 22:48 MSK
+"sum_digits_five" time elapsed: 00:00:00
+----------------------------------------------------------
+
+72/75 Testing: sum_digits_five_negative
+72/75 Test: sum_digits_five_negative
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "sum_digits_five_negative"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"sum_digits_five_negative" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: sum_digits_five_negative
+Randomness seeded to: 4264061691
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"sum_digits_five_negative" end time: Sep 26 22:48 MSK
+"sum_digits_five_negative" time elapsed: 00:00:00
+----------------------------------------------------------
+
+73/75 Testing: sum_digits_five_with_zeros
+73/75 Test: sum_digits_five_with_zeros
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "sum_digits_five_with_zeros"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"sum_digits_five_with_zeros" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: sum_digits_five_with_zeros
+Randomness seeded to: 606932982
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"sum_digits_five_with_zeros" end time: Sep 26 22:48 MSK
+"sum_digits_five_with_zeros" time elapsed: 00:00:00
+----------------------------------------------------------
+
+74/75 Testing: sum_digits_repeats
+74/75 Test: sum_digits_repeats
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "sum_digits_repeats"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"sum_digits_repeats" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: sum_digits_repeats
+Randomness seeded to: 991237795
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"sum_digits_repeats" end time: Sep 26 22:48 MSK
+"sum_digits_repeats" time elapsed: 00:00:00
+----------------------------------------------------------
+
+75/75 Testing: sum_digits_zeros
+75/75 Test: sum_digits_zeros
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test/basics_tests" "sum_digits_zeros"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-1-basics-daniliambo/build/test
+"sum_digits_zeros" start time: Sep 26 22:48 MSK
+Output:
+----------------------------------------------------------
+Filters: sum_digits_zeros
+Randomness seeded to: 3555109594
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"sum_digits_zeros" end time: Sep 26 22:48 MSK
+"sum_digits_zeros" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 26 22:48 MSK

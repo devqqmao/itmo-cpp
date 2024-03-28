@@ -1,0 +1,251 @@
+Start testing: Feb 09 22:31 MSK
+----------------------------------------------------------
+1/10 Testing: Empty file
+1/10 Test: Empty file
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-5-huffman-daniliambo/build/test/huffman_tests" "Empty file"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-5-huffman-daniliambo/build/test
+"Empty file" start time: Feb 09 22:31 MSK
+Output:
+----------------------------------------------------------
+Filters: Empty file
+Randomness seeded to: 971660404
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Empty file" end time: Feb 09 22:31 MSK
+"Empty file" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/10 Testing: One byte file
+2/10 Test: One byte file
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-5-huffman-daniliambo/build/test/huffman_tests" "One byte file"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-5-huffman-daniliambo/build/test
+"One byte file" start time: Feb 09 22:31 MSK
+Output:
+----------------------------------------------------------
+Filters: One byte file
+Randomness seeded to: 1504866121
+1
+1
+15
+1
+1
+15
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"One byte file" end time: Feb 09 22:31 MSK
+"One byte file" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/10 Testing: Zero code file
+3/10 Test: Zero code file
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-5-huffman-daniliambo/build/test/huffman_tests" "Zero code file"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-5-huffman-daniliambo/build/test
+"Zero code file" start time: Feb 09 22:31 MSK
+Output:
+----------------------------------------------------------
+Filters: Zero code file
+Randomness seeded to: 1978004244
+1
+1
+15
+1
+1
+15
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Zero code file" end time: Feb 09 22:31 MSK
+"Zero code file" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/10 Testing: 255 code file
+4/10 Test: 255 code file
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-5-huffman-daniliambo/build/test/huffman_tests" "255 code file"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-5-huffman-daniliambo/build/test
+"255 code file" start time: Feb 09 22:31 MSK
+Output:
+----------------------------------------------------------
+Filters: 255 code file
+Randomness seeded to: 4053737887
+3
+1
+19
+1
+3
+19
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"255 code file" end time: Feb 09 22:31 MSK
+"255 code file" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/10 Testing: all 256 codes file
+5/10 Test: all 256 codes file
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-5-huffman-daniliambo/build/test/huffman_tests" "all 256 codes file"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-5-huffman-daniliambo/build/test
+"all 256 codes file" start time: Feb 09 22:31 MSK
+Output:
+----------------------------------------------------------
+Filters: all 256 codes file
+Randomness seeded to: 4169345727
+256
+256
+780
+256
+256
+780
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"all 256 codes file" end time: Feb 09 22:31 MSK
+"all 256 codes file" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/10 Testing: Only 2 same bytes
+6/10 Test: Only 2 same bytes
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-5-huffman-daniliambo/build/test/huffman_tests" "Only 2 same bytes"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-5-huffman-daniliambo/build/test
+"Only 2 same bytes" start time: Feb 09 22:31 MSK
+Output:
+----------------------------------------------------------
+Filters: Only 2 same bytes
+Randomness seeded to: 1097909501
+2
+1
+15
+1
+2
+15
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Only 2 same bytes" end time: Feb 09 22:31 MSK
+"Only 2 same bytes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/10 Testing: Big file txt
+7/10 Test: Big file txt
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-5-huffman-daniliambo/build/test/huffman_tests" "Big file txt"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-5-huffman-daniliambo/build/test
+"Big file txt" start time: Feb 09 22:31 MSK
+Output:
+----------------------------------------------------------
+Filters: Big file txt
+Randomness seeded to: 719143812
+1943819
+993462
+490
+993462
+1943819
+490
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   9.75 sec
+----------------------------------------------------------
+Test Passed.
+"Big file txt" end time: Feb 09 22:31 MSK
+"Big file txt" time elapsed: 00:00:09
+----------------------------------------------------------
+
+8/10 Testing: Binary big file
+8/10 Test: Binary big file
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-5-huffman-daniliambo/build/test/huffman_tests" "Binary big file"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-5-huffman-daniliambo/build/test
+"Binary big file" start time: Feb 09 22:31 MSK
+Output:
+----------------------------------------------------------
+Filters: Binary big file
+Randomness seeded to: 1894121805
+3176627
+3158181
+782
+3158181
+3176627
+782
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =  20.27 sec
+----------------------------------------------------------
+Test Passed.
+"Binary big file" end time: Feb 09 22:32 MSK
+"Binary big file" time elapsed: 00:00:20
+----------------------------------------------------------
+
+9/10 Testing: Big file with random text
+9/10 Test: Big file with random text
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-5-huffman-daniliambo/build/test/huffman_tests" "Big file with random text"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-5-huffman-daniliambo/build/test
+"Big file with random text" start time: Feb 09 22:32 MSK
+Output:
+----------------------------------------------------------
+Filters: Big file with random text
+Randomness seeded to: 3954676807
+5242880
+5242880
+780
+5242880
+5242880
+780
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =  30.77 sec
+----------------------------------------------------------
+Test Passed.
+"Big file with random text" end time: Feb 09 22:32 MSK
+"Big file with random text" time elapsed: 00:00:30
+----------------------------------------------------------
+
+10/10 Testing: Example file
+10/10 Test: Example file
+Command: "/Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-5-huffman-daniliambo/build/test/huffman_tests" "Example file"
+Directory: /Users/dev.daniil.bakushkin/github-classroom/itmo-mse-cpp/cpp23-ha-5-huffman-daniliambo/build/test
+"Example file" start time: Feb 09 22:32 MSK
+Output:
+----------------------------------------------------------
+Filters: Example file
+Randomness seeded to: 2581675533
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Example file" end time: Feb 09 22:32 MSK
+"Example file" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 09 22:32 MSK
